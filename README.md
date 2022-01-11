@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @SubhamAshok
+- 👀 I’m interested in learning new technologies and software development 
+- 👨‍🎓 I have a good understanding of Java, DBMS (MySQL, Oracle), Python, Machine Learning
+- 🌱 I’m currently learning spring framework (Java)
+- 📫 You can reach me out at s.ashok14nov@gmail.com
